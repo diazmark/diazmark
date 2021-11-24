@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @diazmark
+- 🌱 I’m currently a research scientist on the Ethical AI team at Google researching data annotation processes.
